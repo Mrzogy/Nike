@@ -8,17 +8,39 @@
 
 /* Begin PBXBuildFile section */
 		B799F5032A1397070098FEC9 /* NikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5022A1397070098FEC9 /* NikeApp.swift */; };
-		B799F5052A1397070098FEC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5042A1397070098FEC9 /* ContentView.swift */; };
 		B799F5072A1397070098FEC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B799F5062A1397070098FEC9 /* Assets.xcassets */; };
 		B799F50A2A1397070098FEC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B799F5092A1397070098FEC9 /* Preview Assets.xcassets */; };
+		B799F5112A139CBC0098FEC9 /* NikeOnboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5102A139CBC0098FEC9 /* NikeOnboarding.swift */; };
+		B799F5152A13DDDC0098FEC9 /* IntroNike.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5142A13DDDC0098FEC9 /* IntroNike.swift */; };
+		B799F5172A13ECC50098FEC9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5162A13ECC50098FEC9 /* Home.swift */; };
+		B799F5192A13F4530098FEC9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5182A13F4530098FEC9 /* SwiftUIView.swift */; };
+		B799F51B2A13F6080098FEC9 /* Cheack.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F51A2A13F6080098FEC9 /* Cheack.swift */; };
+		B799F51D2A13F87D0098FEC9 /* Cheaking2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F51C2A13F87D0098FEC9 /* Cheaking2.swift */; };
+		B799F51F2A13FA4B0098FEC9 /* Cheking3.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F51E2A13FA4B0098FEC9 /* Cheking3.swift */; };
+		B799F5212A13FEE30098FEC9 /* joinPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5202A13FEE30098FEC9 /* joinPage.swift */; };
+		B799F5232A1423760098FEC9 /* InterEmail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5222A1423760098FEC9 /* InterEmail.swift */; };
+		B799F5252A14263A0098FEC9 /* Password.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5242A14263A0098FEC9 /* Password.swift */; };
+		B799F5272A1428150098FEC9 /* Digital.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5262A1428150098FEC9 /* Digital.swift */; };
+		B799F5292A1429350098FEC9 /* Seccuss.swift in Sources */ = {isa = PBXBuildFile; fileRef = B799F5282A1429350098FEC9 /* Seccuss.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		B799F4FF2A1397070098FEC9 /* Nike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B799F5022A1397070098FEC9 /* NikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikeApp.swift; sourceTree = "<group>"; };
-		B799F5042A1397070098FEC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B799F5062A1397070098FEC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B799F5092A1397070098FEC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B799F5102A139CBC0098FEC9 /* NikeOnboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NikeOnboarding.swift; sourceTree = "<group>"; };
+		B799F5142A13DDDC0098FEC9 /* IntroNike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroNike.swift; sourceTree = "<group>"; };
+		B799F5162A13ECC50098FEC9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		B799F5182A13F4530098FEC9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		B799F51A2A13F6080098FEC9 /* Cheack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cheack.swift; sourceTree = "<group>"; };
+		B799F51C2A13F87D0098FEC9 /* Cheaking2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cheaking2.swift; sourceTree = "<group>"; };
+		B799F51E2A13FA4B0098FEC9 /* Cheking3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cheking3.swift; sourceTree = "<group>"; };
+		B799F5202A13FEE30098FEC9 /* joinPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = joinPage.swift; sourceTree = "<group>"; };
+		B799F5222A1423760098FEC9 /* InterEmail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterEmail.swift; sourceTree = "<group>"; };
+		B799F5242A14263A0098FEC9 /* Password.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Password.swift; sourceTree = "<group>"; };
+		B799F5262A1428150098FEC9 /* Digital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Digital.swift; sourceTree = "<group>"; };
+		B799F5282A1429350098FEC9 /* Seccuss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Seccuss.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +74,20 @@
 			isa = PBXGroup;
 			children = (
 				B799F5022A1397070098FEC9 /* NikeApp.swift */,
-				B799F5042A1397070098FEC9 /* ContentView.swift */,
+				B799F5102A139CBC0098FEC9 /* NikeOnboarding.swift */,
+				B799F5142A13DDDC0098FEC9 /* IntroNike.swift */,
 				B799F5062A1397070098FEC9 /* Assets.xcassets */,
 				B799F5082A1397070098FEC9 /* Preview Content */,
+				B799F5162A13ECC50098FEC9 /* Home.swift */,
+				B799F5182A13F4530098FEC9 /* SwiftUIView.swift */,
+				B799F51A2A13F6080098FEC9 /* Cheack.swift */,
+				B799F51C2A13F87D0098FEC9 /* Cheaking2.swift */,
+				B799F51E2A13FA4B0098FEC9 /* Cheking3.swift */,
+				B799F5222A1423760098FEC9 /* InterEmail.swift */,
+				B799F5242A14263A0098FEC9 /* Password.swift */,
+				B799F5262A1428150098FEC9 /* Digital.swift */,
+				B799F5282A1429350098FEC9 /* Seccuss.swift */,
+				B799F5202A13FEE30098FEC9 /* joinPage.swift */,
 			);
 			path = Nike;
 			sourceTree = "<group>";
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B799F5052A1397070098FEC9 /* ContentView.swift in Sources */,
+				B799F5112A139CBC0098FEC9 /* NikeOnboarding.swift in Sources */,
+				B799F5232A1423760098FEC9 /* InterEmail.swift in Sources */,
+				B799F5272A1428150098FEC9 /* Digital.swift in Sources */,
+				B799F5192A13F4530098FEC9 /* SwiftUIView.swift in Sources */,
+				B799F5252A14263A0098FEC9 /* Password.swift in Sources */,
+				B799F5152A13DDDC0098FEC9 /* IntroNike.swift in Sources */,
 				B799F5032A1397070098FEC9 /* NikeApp.swift in Sources */,
+				B799F51F2A13FA4B0098FEC9 /* Cheking3.swift in Sources */,
+				B799F5172A13ECC50098FEC9 /* Home.swift in Sources */,
+				B799F51B2A13F6080098FEC9 /* Cheack.swift in Sources */,
+				B799F5292A1429350098FEC9 /* Seccuss.swift in Sources */,
+				B799F51D2A13F87D0098FEC9 /* Cheaking2.swift in Sources */,
+				B799F5212A13FEE30098FEC9 /* joinPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +319,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +349,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
