@@ -29,7 +29,7 @@ struct Cheaking2: View {
                 }
                 //tabitem()
              
-            }.navigationTitle("Home")
+            }.navigationTitle("Checking")
          
         }    }
 }

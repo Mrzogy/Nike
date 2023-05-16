@@ -35,7 +35,7 @@ struct Home: View {
                 }
                 //tabitem()
              
-            }.navigationTitle("Home")
+            }.navigationTitle("Life Stayle")
          
         }
       

@@ -29,7 +29,7 @@ struct Cheking3: View {
                 }
                 //tabitem()
              
-            }.navigationTitle("Home")
+            }.navigationTitle("New In Nike")
          
         }
     }

@@ -12,20 +12,20 @@ struct SwiftUIView: View {
         TabView {
             Cheack()
                 .tabItem {
-                    Label("Menu", systemImage: "list.dash")
+                    Label("Home", systemImage: "figure.run")
                 }
             
             Home()
                 .tabItem {
-                    Label("Order", systemImage: "square.and.pencil")
+                    Label("Sports", systemImage: "figure.badminton")
                 }
             Cheaking2()
                 .tabItem {
-                    Label("Order", systemImage: "square.and.pencil")
+                    Label("Introdaction", systemImage: "figure.cooldown")
                 }
             Cheking3()
                 .tabItem {
-                    Label("Order", systemImage: "square.and.pencil")
+                    Label("More Info", systemImage: "figure.mind.and.body")
                     
                 }
             
